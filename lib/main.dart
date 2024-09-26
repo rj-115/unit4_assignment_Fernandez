@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(MyProfileApp());
+  runApp(MyProfile());
 }
 
-class MyProfileApp extends StatelessWidget {
-  const MyProfileApp({super.key});
+class MyProfile extends StatelessWidget {
+  const MyProfile({super.key});
 
   @override
   Widget build(BuildContext context) {
